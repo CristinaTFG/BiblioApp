@@ -48,5 +48,6 @@ ionic serve
 - **Firebase Authentication** - Login/Registro
 - **Firestore** - Base de datos en la nube
 - **Vue Router** - Navegación
-
+- **Leaflet** - Libreria interactiva de mapas
+  
 ---
