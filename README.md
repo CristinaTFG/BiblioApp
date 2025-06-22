@@ -18,7 +18,7 @@ cd BiblioApp
 ```
 
 ### 3️⃣ Instalar Ionic CLI, Firebase y Leaflet
-Install the Ionic CLI with npm:
+Install the Ionic CLI, Firebase y Leaflet with npm:
 ```sh
 npm install -g @ionic/cli
 npm install firebase
