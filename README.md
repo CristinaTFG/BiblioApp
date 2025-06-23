@@ -17,12 +17,10 @@ git clone git@github.com:CristinaTFG/BiblioApp.git
 cd BiblioApp
 ```
 
-### 3️⃣ Instalar Ionic CLI, Firebase y Leaflet
-Install the Ionic CLI, Firebase y Leaflet with npm:
+### 3️⃣ Instalar Ionic CLI
+Install the Ionic CLI with npm:
 ```sh
 npm install -g @ionic/cli
-npm install firebase
-npm install leaflet
 ```
 
 ### 2️⃣ Instalar dependencias
